@@ -14,5 +14,5 @@ Encoder
 * B: PC7  
 
 USART  
-* USART2TX: PA2  
-* USART2RX: PA3  
+* USART2_TX: PA2  
+* USART2_RX: PA3  
