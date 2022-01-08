@@ -12,3 +12,7 @@ GPIO
 Encoder  
 * A: PA6  
 * B: PC7  
+
+USART  
+* USART2TX: PA2  
+* USART2RX: PA3  
