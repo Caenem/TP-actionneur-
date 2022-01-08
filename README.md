@@ -11,4 +11,4 @@ GPIO
   
 Encoder  
 * A: PA6  
-* B: PA7  
+* B: PC7  
