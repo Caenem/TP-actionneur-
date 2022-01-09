@@ -1,6 +1,6 @@
 # TP-actionneur-
 ## PINOUT  
-PWM  
+PWM (TIM1)  
 * PWM1: PC0   
 * PWM1N: PA7  
 * PWM2: PC1  
@@ -9,7 +9,7 @@ PWM
 GPIO  
 * Reset: PA4  
   
-Encoder  
+Encoder (TIM3)  
 * A: PA6  
 * B: PC7  
 
